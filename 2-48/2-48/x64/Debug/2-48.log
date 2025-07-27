@@ -1,0 +1,4 @@
+﻿  2048.cpp
+D:\software\vs2019\VC\Tools\MSVC\14.39.33519\include\print(11): warning STL4038: The contents of <print> are available only with C++23 or later.
+D:\learning\c\2048\2-48\2-48\2048.cpp(319,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  2-48.vcxproj -> D:\learning\c\2048\2-48\x64\Debug\2048.exe
